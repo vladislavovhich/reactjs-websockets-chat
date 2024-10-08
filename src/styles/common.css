@@ -1,0 +1,22 @@
+html {
+    background: #282b30;
+}
+
+.App {
+    min-height: 100vh;
+}
+
+.Header {
+    height: 65px;
+}
+
+.bg-darker {
+    background-color: #282b30;
+}
+
+.no-rooms-img {
+    width: 185px;
+    height: 185px;
+    object-fit: cover;
+    border-radius: 50%;
+}
